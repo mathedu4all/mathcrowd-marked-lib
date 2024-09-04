@@ -46,7 +46,7 @@ https://mathedu4all.github.io/mathcrowd-marked-lib/demo/
 
 ## About Us
 
-Mathcrowd is a startup founded by independent developers and former math educators, specializing in the application of cutting-edge information technology in mathematics education in China. We are dedicated to building an online community for math enthusiasts and self-learners, offering rich, interactive, and visualized math learning content. Our platform provides a space for sharing and discussing mathematical ideas, fostering an engaging and collaborative learning environment.
+Mathcrowd is a pioneering startup founded by seasoned independent developers and mathematics educators. We specialize in leveraging cutting-edge technology to revolutionize math education in China. Our mission is to create an engaging online community for math enthusiasts and self-learners, offering rich, interactive, and visualized learning content. We provide a collaborative space where mathematical ideas can be shared and explored, fostering a vibrant environment for continuous learning and discovery.
 
 Official Site: https://www.mathcrowd.cn (Under construction)
 
