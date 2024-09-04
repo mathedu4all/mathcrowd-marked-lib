@@ -36,7 +36,7 @@ const html = renderMarkdown('###Heading')
 - `renderMarkdown`: render markdown to HTML.
 - `renderMarkdownCompact`: render markdown to HTML without `<p>` tag.
 
-!Important: The output HTML shoul be purified by [DOMPurify](https://github.com/cure53/DOMPurify)
+**!Important: The output HTML should be purified by [DOMPurify](https://github.com/cure53/DOMPurify)**
 
 https://mathedu4all.github.io/mathcrowd-marked-lib/
 
