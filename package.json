@@ -1,6 +1,6 @@
 {
   "name": "@mathcrowd/mathcrowd-marked-lib",
-  "version": "1.5.5",
+  "version": "1.6.0",
   "description": "a customized markdown parser/renderer with mathjax tex2svg.",
   "types": "dist/index.d.ts",
   "module": "dist/index.esm.js",
@@ -41,13 +41,13 @@
     "@types/jest": "^29.5.11",
     "@typescript-eslint/eslint-plugin": "^6.14.0",
     "@typescript-eslint/parser": "^6.14.0",
+    "commit-and-tag-version": "^12.4.4",
     "eslint": "^8.56.0",
     "eslint-config-prettier": "^9.1.0",
     "eslint-config-standard": "^17.1.0",
     "eslint-plugin-jest": "^27.6.0",
     "eslint-plugin-prettier": "^5.0.1",
     "eslint-plugin-regexp": "^2.1.2",
-    "highlight.js": "^11.10.0",
     "jest": "^29.7.0",
     "js-md5": "^0.8.3",
     "marked": "^13.0.2",
@@ -58,9 +58,11 @@
     "rollup-plugin-livereload": "^2.0.5",
     "rollup-plugin-peer-deps-external": "^2.2.4",
     "rollup-plugin-serve": "^1.1.1",
+    "rollup-plugin-visualizer": "^5.12.0",
     "typedoc": "^0.25.4"
   },
   "peerDependencies": {
+    "highlight.js": "^11.10.0",
     "mathjax-full": "^3.2.2"
   }
 }
