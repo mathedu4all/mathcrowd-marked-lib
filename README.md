@@ -7,16 +7,17 @@ A powerful TypeScript library for rendering customized markdown syntax with LaTe
 
 ## 🌟 Features
 
-- ✅ Full CommonMark syntax support
-- 🔢 Auto-numbering footnotes with reference links
-- 📘 Theorem-like block rendering
-- 🖼️ Image resizing capabilities
-- 🔍 Hidden/show solution blocks
-- 🧮 Server-side TeX to SVG conversion
+- ✅ **Full CommonMark syntax support:** Comprehensive compatibility with CommonMark standards.
+- 🔢 **Footnotes Blocks:** Supports rendering auto-numbered footnotes with easy reference links.
+- 📘 **Theorem-like blocks:**  Supports rendering mathematical theorems, lemmas, and examples in a block format with titles, auto-numbering, and reference links.
+- 🖼️ **Image resizing capabilities:** Allows for customizable rendering of images and videos using simple syntax.
+- 🔍 **Hidden/show solution blocks:** Provides a solution block with a toggle button for easy visibility control, implemented with straightforward syntax.
+- 🧮 **TeX to SVG conversion:** Converts TeX equations to scalable vector graphics for high-quality rendering.
+- 🔗 **Easy Integration with Existing Systems:** Supports both server-side and browser-side implementations for flexible use.
 
 ## 🚀 Quick Start
 
-### Server Integration
+### Server Side Integration
 
 
 #### Installation
@@ -38,7 +39,7 @@ const html = renderMarkdown('### Heading').parsed
 ```
 
 
-### Web Integration
+### Web Browser Side Integration
 
 ```html
 <!doctype html>
