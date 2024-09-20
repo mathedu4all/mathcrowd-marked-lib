@@ -75,7 +75,7 @@ const html = renderMarkdown('### Heading').parsed
 
 ## 📖 Documentation
 
-For detailed documentation, visit our [GitHub Pages](https://mathedu4all.github.io/mathcrowd-marked-lib/).
+For detailed documentation in Chinese, visit our [Product Page](https://wwww.mathedu4all.com/markdown).
 
 ## 🎮 Demo
 
@@ -86,7 +86,8 @@ Try out our interactive demo [here](https://mathedu4all.github.io/mathcrowd-mark
 Mathcrowd is an innovative startup founded by experienced independent developers and mathematics educators. We're on a mission to revolutionize math education in China through cutting-edge technology. Our goal is to create an engaging online community for math enthusiasts and self-learners, offering rich, interactive, and visualized learning content.
 
 🌐 Official Website: [https://www.mathedu4all.com](https://www.mathedu4all.com) 
-🌐 Our Online Math Community: [https://www.mathcrowd.cn.com](https://www.mathcrowd.cn) 
+
+🌐 Our Online Math Community: [https://www.mathcrowd.cn](https://www.mathcrowd.cn) 
 
 ## 📄 License
 
