@@ -23,7 +23,7 @@ A powerful TypeScript library for rendering customized markdown syntax with LaTe
 #### Installation
 
 ```bash
-npm install @mathcrowd/mathcrowd-geometry-lib mathjax-full highlight.js
+npm install @mathcrowd/mathcrowd-marked-lib mathjax-full highlight.js
 ```
 
 ### Basic Usage
