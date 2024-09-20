@@ -1,6 +1,6 @@
 {
   "name": "@mathcrowd/mathcrowd-marked-lib",
-  "version": "1.6.0",
+  "version": "1.6.1",
   "description": "a customized markdown parser/renderer with mathjax tex2svg.",
   "types": "dist/index.d.ts",
   "module": "dist/index.esm.js",
@@ -16,7 +16,8 @@
     "docs": "npm run build && npx typedoc --options ./typedoc.config.cjs && node demo/build.js",
     "build": "npm run clean && npm run types && rollup -c ",
     "demo": "npm run clean && rollup -c rollup.config.demo.mjs --watch",
-    "test": "jest --passWithNoTests"
+    "test": "jest --passWithNoTests",
+    "changelog": "conventional-changelog -p angular -i CHANGELOG.md -s"
   },
   "repository": {
     "type": "git",
@@ -41,7 +42,7 @@
     "@types/jest": "^29.5.11",
     "@typescript-eslint/eslint-plugin": "^6.14.0",
     "@typescript-eslint/parser": "^6.14.0",
-    "commit-and-tag-version": "^12.4.4",
+    "conventional-changelog-cli": "^5.0.0",
     "eslint": "^8.56.0",
     "eslint-config-prettier": "^9.1.0",
     "eslint-config-standard": "^17.1.0",
