@@ -1,5 +1,5 @@
 {
-  "name": "@mathcrowd/mathcrowd-marked-lib",
+  "name": "@mathcrowd/mmarked",
   "version": "1.6.3",
   "description": "a customized markdown parser/renderer with mathjax tex2svg.",
   "types": "dist/index.d.ts",
