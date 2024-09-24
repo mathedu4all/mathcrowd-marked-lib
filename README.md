@@ -92,19 +92,9 @@ Mathcrowd is an innovative startup founded by experienced independent developers
 
 ## 📄 License
 
-All Rights Reserved
+[LICENSE](./LICENSE.md)
 
-Copyright © Mathcrowd 2016-2024 (charles@mathcrowd.cn)
-
-```
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
-THE SOFTWARE.
-```
+For commercial use, please contact [charles@mathcrowd.cn] for details on commercial licensing.
 
 ## 🤝 Contributing
 

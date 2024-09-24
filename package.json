@@ -1,7 +1,7 @@
 {
   "name": "@mathcrowd/mmarked",
-  "version": "1.7.0",
-  "description": "a customized markdown parser/renderer with mathjax tex2svg.",
+  "version": "1.7.1",
+  "description": "A customized markdown parser/renderer with tex2svg.",
   "types": "dist/index.d.ts",
   "module": "dist/index.esm.js",
   "main": "dist/index.cjs.js",
@@ -29,7 +29,7 @@
     "svg"
   ],
   "author": "Charles Bao",
-  "license": "MIT",
+  "license": "UNLICENSED",
   "devDependencies": {
     "@babel/preset-env": "^7.23.6",
     "@babel/preset-typescript": "^7.23.3",
