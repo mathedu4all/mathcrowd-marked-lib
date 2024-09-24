@@ -1,6 +1,6 @@
 # mathcrowd-marked-lib
 
-[![npm version](https://badge.fury.io/js/%40mathcrowd%2Fmathcrowd-marked-lib.svg)](https://badge.fury.io/js/%40mathcrowd%2Fmathcrowd-marked-lib)
+[![npm version](https://badge.fury.io/js/%40mathcrowd%2Fmmarked.svg)](https://badge.fury.io/js/%40mathcrowd%2Fmmarked)
 [![License: Custom](https://img.shields.io/badge/License-Custom-yellow.svg)](https://opensource.org/licenses/)
 
 A powerful TypeScript library for rendering customized markdown syntax with LaTeX support, designed for mathematical visualization in educational contexts.
@@ -23,13 +23,13 @@ A powerful TypeScript library for rendering customized markdown syntax with LaTe
 #### Installation
 
 ```bash
-npm install @mathcrowd/mathcrowd-marked-lib mathjax-full highlight.js
+npm install @mathcrowd/mmarked mathjax-full highlight.js
 ```
 
 ### Basic Usage
 
 ```typescript
-import { tex2svg, renderMarkdown } from '@mathcrowd/mathcrowd-marked-lib'
+import { tex2svg, renderMarkdown } from '@mathcrowd/mmarked'
 
 // Convert TeX to SVG
 const svg = tex2svg('$x^2$')
@@ -56,8 +56,8 @@ const html = renderMarkdown('### Heading').parsed
     <script>
         const { tex2svg, renderMarkdown } = marked
         document.getElementById('content').innerHTML =
-            tex2svg(renderMarkdown('# Marked in the browser \n\n $x^2+y^2=1$ \n\nRendered by **mathcrowd-marked-lib**.').parsed);
-        console.log(renderMarkdown('# Marked in the browser\n\nRendered by **marked**.').lexed)
+            tex2svg(renderMarkdown('# Marked in the browser \n\n $x^2+y^2=1$ \n\nRendered by **mmarked**.').parsed);
+        console.log(renderMarkdown('# Marked in the browser\n\nRendered by **mmarked**.').lexed)
     </script>
 </body>
 
