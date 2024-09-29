@@ -1,4 +1,4 @@
-# mathcrowd-marked-lib
+# mmarked
 
 [![npm version](https://badge.fury.io/js/%40mathcrowd%2Fmmarked.svg)](https://badge.fury.io/js/%40mathcrowd%2Fmmarked)
 [![License: Custom](https://img.shields.io/badge/License-Custom-yellow.svg)](https://opensource.org/licenses/)
