@@ -76,11 +76,11 @@ const html = renderMarkdown('### Heading').parsed
 
 ## 📖 Documentation
 
-For detailed documentation in Chinese, visit our [Product Page](https://lab.mathcrowd.cn/markdown).
+For detailed documentation in Chinese, visit our [Product Page](https://lab.mathcrowd.cn/mmarked).
 
 ## 🎮 Demo
 
-Try out our interactive demo [here](https://mathedu4all.github.io/mathcrowd-marked-lib/demo/).
+Try out our interactive demo [here](https://mathedu4all.github.io/mmarked/demo/).
 
 ## 👥 About Mathcrowd
 
