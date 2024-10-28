@@ -17,8 +17,11 @@ A powerful TypeScript library for rendering customized markdown syntax with LaTe
 
 ## 🚀 Quick Start
 
-### Server Side Integration
+### Editor Integeration
 
+Use mmarked in VSCode : https://marketplace.visualstudio.com/items?itemName=MCLab.mmarked
+
+### Server Side Integration
 
 #### Installation
 
@@ -26,7 +29,7 @@ A powerful TypeScript library for rendering customized markdown syntax with LaTe
 npm install @mathcrowd/mmarked mathjax-full highlight.js
 ```
 
-### Basic Usage
+#### Basic Usage
 
 ```typescript
 import { tex2svg, renderMarkdown } from '@mathcrowd/mmarked'
@@ -89,6 +92,8 @@ Mathcrowd is an innovative startup founded by experienced independent developers
 🌐 MCLab Official Website: [https://lab.mathcrowd.cn](https://lab.mathcrowd.cn) 
 
 🌐 Our Online Math Community: [https://www.mathcrowd.cn](https://www.mathcrowd.cn) 
+
+💬 Join Our Discord: https://discord.gg/6VMUVA5Yq2
 
 ## 📄 License
 
