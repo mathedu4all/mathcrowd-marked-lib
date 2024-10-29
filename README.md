@@ -1,7 +1,7 @@
 # mmarked
 
 [![npm version](https://badge.fury.io/js/%40mathcrowd%2Fmmarked.svg)](https://badge.fury.io/js/%40mathcrowd%2Fmmarked)
-[![License: Custom](https://img.shields.io/badge/License-Custom-yellow.svg)](https://opensource.org/licenses/)
+[![License: Custom](https://img.shields.io/badge/License-Custom-yellow.svg)](https://creativecommons.org/licenses/by-nc/4.0)
 
 A powerful TypeScript library for rendering customized markdown syntax with LaTeX support, designed for mathematical visualization in educational contexts.
 
