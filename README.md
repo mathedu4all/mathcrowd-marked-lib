@@ -85,7 +85,7 @@ For detailed documentation in Chinese, visit our [Product Page](https://lab.math
 
 ## 🎮 Demo
 
-Try out our interactive demo [here](https://mathedu4all.github.io/mmarked/demo/).
+Try out our interactive demo [here](https://mathedu4all.github.io/mmarked/).
 
 ## 👥 About Mathcrowd
 

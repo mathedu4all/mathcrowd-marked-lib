@@ -1,3 +1,16 @@
+## [1.8.4](https://cloud.mathcrowd.cn:2444/agile/frontend/mathcrowd-marked-lib/compare/v1.8.3...v1.8.4) (2024-12-19)
+
+
+
+## [1.8.3](https://cloud.mathcrowd.cn:2444/agile/frontend/mathcrowd-marked-lib/compare/v1.8.2...v1.8.3) (2024-12-19)
+
+
+### Features
+
+* eslint upgraded to v9. ([806c4c1](https://cloud.mathcrowd.cn:2444/agile/frontend/mathcrowd-marked-lib/commits/806c4c15b02e8f18a09b8032be6c2d57e596ba0a))
+
+
+
 ## [1.8.2](https://cloud.mathcrowd.cn:2444/agile/frontend/mathcrowd-marked-lib/compare/v1.8.1...v1.8.2) (2024-10-29)
 
 
